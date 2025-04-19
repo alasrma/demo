@@ -1,2 +1,2 @@
 console.log("hello world");
-console.log("clone git")
+console.log("clone git...")
